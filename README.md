@@ -1,3 +1,3 @@
-# coding-practise
+# 面向招聘编程
 Leetcode、剑指Offer
-</br>6.20 goal: 剑指offer 20-25
+<br>7.31 goal 看完20讲视频
